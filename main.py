@@ -16,4 +16,4 @@ if __name__ == "__main__":
                 print("Hold position")
             
             # Wait for 1 minute before the next decision
-            time.sleep(60)
+            time.sleep(180)
